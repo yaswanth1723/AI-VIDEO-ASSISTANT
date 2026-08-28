@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🎥 AI Video Assistant
 
 ### Transcribe • Summarise • Chat with Your Videos
@@ -8,7 +8,7 @@ videos or local media into searchable transcripts, concise summaries,
 and context-aware answers using **Whisper** and **Retrieval-Augmented
 Generation (RAG)**.
 
-`<br>`{=html}
+
 
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -545,7 +545,7 @@ application rather than using a single AI model in isolation.
 ------------------------------------------------------------------------
 
 
-::: {align="center"}
+
 ### ⭐ If you find this project useful, consider giving it a star!
 
 **Built with Python, Whisper, RAG & Streamlit ❤️**
